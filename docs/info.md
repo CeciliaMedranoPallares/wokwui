@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works jcjksbcjsbkjcbsvcjsvjvcjsvsvcuvsufcvsfiyautfSU
+Its just an  AND test
 
 ## How to test
 
-Explain how to use your project CUSFUEAOFCSJA KA VUDA D E BFUE FAO
+Ig your entrance is a  and the ohter is the same you will have a.It is the only case.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any IF ANY EMPORMENT 
+'Deep switch
+LED
